@@ -14,6 +14,8 @@ PCIe x8 Signal Breakout to [U.FL/UMCC Connectors](https://en.wikipedia.org/wiki/
 
 All signals are length-matched to within 1mm both inter-pair and intra-pair.
 
+Resistor footprint R1 connects `PRSNT1` to `PRSNT2_x8`. The R1 trace can be cut and `PRSNT1` can be connected to a different `PRSNT2` to reduce the [PCIe lane width](https://en.wikipedia.org/wiki/PCI_Express#Lane).
+
 
 # Schematic
 
