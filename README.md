@@ -11,6 +11,8 @@ The [PCIEX1-SMA](https://github.com/teknoman117/PCIEX1-SMA/tree/f63db3cca1db83d9
 
 ![PCIe x8 Breakout PCB Layout](img/PCIe_x8_Breakout_PCB_Layout.png)
 
+All signals are length-matched to within 1mm both inter-pair and intra-pair.
+
 
 # Schematic
 
@@ -25,5 +27,5 @@ The [PCIEX1-SMA](https://github.com/teknoman117/PCIEX1-SMA/tree/f63db3cca1db83d9
 
 Differential Impedance parameters were calculated using the [DigiKey Online Calculator](https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-pcb-trace-impedance).
 
-![PCB Differential Impedance Calculation](PCB_Impedance_0.30mm_0.18mm_on_0.21mm_7628.png)
+![PCB Differential Impedance Calculation](img/PCB_Impedance_0.30mm_0.18mm_on_0.21mm_7628.png)
 
