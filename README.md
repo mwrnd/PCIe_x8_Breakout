@@ -1,4 +1,4 @@
-**Work-In-Progress** [Gerbers ready](https://github.com/mwrnd/PCIe_x8_Breakout/tags/v0.1-alpha) but not yet ordered.
+**Work-In-Progress**: [Gerbers ready](https://github.com/mwrnd/PCIe_x8_Breakout/releases/tag/v0.1-alpha) but not yet ordered.
 
 
 # PCIe_x8_Breakout
