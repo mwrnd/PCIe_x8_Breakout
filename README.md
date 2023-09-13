@@ -1,4 +1,4 @@
-**Work-In-Progress**: [Gerbers ready](https://github.com/mwrnd/PCIe_x8_Breakout/releases/tag/v0.1-alpha) but not yet ordered.
+**Work-In-Progress**: [Gerbers produced](https://github.com/mwrnd/PCIe_x8_Breakout/releases/tag/v0.1-alpha) and being tested.
 
 
 # PCIe_x8_Breakout
@@ -6,6 +6,8 @@
 PCIe x8 Signal Breakout to [U.FL/UMCC Connectors](https://en.wikipedia.org/wiki/Hirose_U.FL).
 
 [PCIEX1-SMA](https://github.com/teknoman117/PCIEX1-SMA/tree/f63db3cca1db83d9b58e01254d8104f65855b762) is a similar project that is PCIe x1 and uses SMA connectors.
+
+![PCIe x8 Breakout PCB](img/PCIe_X8_Breakout_Front.jpg)
 
 
 # PCB Layout
@@ -15,6 +17,12 @@ PCIe x8 Signal Breakout to [U.FL/UMCC Connectors](https://en.wikipedia.org/wiki/
 All signals are length-matched to within 1mm both inter-pair and intra-pair.
 
 Resistor footprint R1 connects `PRSNT1` to `PRSNT2_x8`. The R1 trace can be cut and `PRSNT1` can be connected to a different `PRSNT2` to reduce the [PCIe lane width](https://en.wikipedia.org/wiki/PCI_Express#Lane).
+
+![R1 Connects PRSNT1 to PRSNT2_x8](img/PCIe_X8_Breakout-Cut_PRSNT1-PRSNT2_x8_Connection.jpg)
+
+Then wire jumpers can be used to connect `PRSNT1` to any of the `PRSNT2`.
+
+![PRSNT1 and PRSNT2 Jumpers](img/PCIe_X8_Breakout_Back.jpg)
 
 
 # Schematic
