@@ -10,6 +10,19 @@ PCIe x8 Signal Breakout to [U.FL/UMCC Connectors](https://en.wikipedia.org/wiki/
 ![PCIe x8 Breakout PCB](img/PCIe_X8_Breakout_Front.jpg)
 
 
+
+# Testing and Use Example
+
+The board is currently being used along with a [SlimSAS8x_Breakout](https://github.com/mwrnd/SlimSAS8x_Breakout) board to test OpenCAPI-to-PCIe on the [Innova-2 SmartNIC](https://www.nvidia.com/en-us/networking/ethernet/innova-2-flex/).
+
+![PCIe x8 Breakout and OpenCAPI Breakout](img/PCIe_and_OpenCAPI_Breakout.jpg)
+
+In-system:
+
+![PCIe x8 Breakout and OpenCAPI Breakout In System](img/PCIe_and_OpenCAPI_Breakout_in_System.jpg)
+
+
+
 # PCB Layout
 
 ![PCIe x8 Breakout PCB Layout](img/PCIe_x8_Breakout_PCB_Layout.png)
@@ -25,9 +38,11 @@ Then wire jumpers can be used to connect `PRSNT1` to any of the `PRSNT2`.
 ![PRSNT1 and PRSNT2 Jumpers](img/PCIe_X8_Breakout_Back.jpg)
 
 
+
 # Schematic
 
 ![PCIe x8 Breakout Schematic](img/PCIe_x8_Breakout_Schematic.png)
+
 
 
 # PCB Layer Stackup
