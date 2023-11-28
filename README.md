@@ -23,7 +23,7 @@ PCIe x4 In-system:
 
 ![PCIe x8 Breakout and OpenCAPI Breakout In System](img/PCIe_and_OpenCAPI_Breakout_in_System.jpg)
 
-However, using 250mm U.FL cables the adapters fail for PCIe x8:
+However, using 250mm IPEX cables the adapters fail for PCIe x8:
 
 ![PCIe x8 Breakout and OpenCAPI Breakout All Connections](img/OpenCAPI_and_PCIe_x8_Adapters_with_All_Connections.jpg)
 
