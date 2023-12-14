@@ -7,7 +7,7 @@ PCIe x8 Signal Breakout to [U.FL/UMCC Connectors](https://en.wikipedia.org/wiki/
 
 [PCIEX1-SMA](https://github.com/teknoman117/PCIEX1-SMA/tree/f63db3cca1db83d9b58e01254d8104f65855b762) is a similar project that is PCIe x1 and uses SMA connectors.
 
-The board requires up to 34 [U.FL/UMCC Surface Mount Receptacles](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2337019-1/9974052).
+The board requires up to 34 [U.FL/UMCC Surface Mount Receptacles](https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2337019-1/9974052) and an 18-Pin 2.54mm [Header](https://www.digikey.com/en/products/detail/sullins-connector-solutions/PREC009DAAN-RC/2774885) or [Socket](https://www.digikey.com/en/products/detail/adam-tech/RS2-18-G/9832054).
 
 
 ![PCIe x8 Breakout PCB](img/PCIe_X8_Breakout_Front.jpg)
