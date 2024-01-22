@@ -45,7 +45,7 @@ Resistor footprint R1 connects `PRSNT1` to `PRSNT2_x8`. The R1 trace can be cut 
 
 ![R1 Connects PRSNT1 to PRSNT2_x8](img/PCIe_X8_Breakout-Cut_PRSNT1-PRSNT2_x8_Connection.jpg)
 
-Then wire jumpers can be used to connect `PRSNT1` to any of the `PRSNT2`.
+Wire jumpers can then be used to connect `PRSNT1` to any of the `PRSNT2`.
 
 ![PRSNT1 and PRSNT2 Jumpers](img/PCIe_X8_Breakout_Back.jpg)
 
