@@ -1,6 +1,3 @@
-**Work-In-Progress**: [Gerbers produced](https://github.com/mwrnd/PCIe_x8_Breakout/releases/tag/v0.1-alpha) and being tested.
-
-
 # PCIe_x8_Breakout
 
 PCIe x8 Signal Breakout to [U.FL/UMCC Connectors](https://en.wikipedia.org/wiki/Hirose_U.FL).
