@@ -9,6 +9,8 @@ The board requires up to 34 [U.FL/UMCC Surface Mount Receptacles](https://www.di
 
 ![PCIe x8 Breakout PCB](img/PCIe_X8_Breakout_Front.jpg)
 
+Related Projects: [OpenCAPI_Breakout](https://github.com/mwrnd/OpenCAPI_Breakout), [OpenCAPI-to-PCIe](https://github.com/mwrnd/OpenCAPI-to-PCIe), [OpenCAPI-to-PCIe_x4_Host_and_Endpoint](https://github.com/mwrnd/OpenCAPI-to-PCIe_x4_Host_and_Endpoint)
+
 
 
 # Testing and Use Example
